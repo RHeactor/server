@@ -41,7 +41,7 @@
     "passport": "^0.3.2",
     "passport-http-bearer": "^1.0.1",
     "redis": "^2.6.2",
-    "request-promise": "^3.0.0",
+    "request-promise": "^4.0.1",
     "rheactor-event-store": "^3.0.0",
     "rheactor-value-objects": "^2.0.0",
     "rheactor-web-app": "^2.0.0",
