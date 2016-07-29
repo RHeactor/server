@@ -61,7 +61,7 @@
     "semantic-release": "^4.3.5",
     "standard": "^7.1.2",
     "superagent": "^2.1.0",
-    "supertest": "^1.2.0",
+    "supertest": "^2.0.0",
     "toposort": "^1.0.0",
     "validate-commit-msg": "^2.6.1",
     "yadda": "^0.17.9"
