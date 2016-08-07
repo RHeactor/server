@@ -47,7 +47,7 @@
     "rheactor-yadda-feature-runner": "^1.0.0",
     "template-mailer-aws-lambda-client": "^1.0.0",
     "transactional-emails": "^1.11.0",
-    "yadda": "^0.17.10"
+    "yadda": "^0.18.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
