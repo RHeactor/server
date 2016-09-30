@@ -46,7 +46,7 @@
     "rheactor-web-app": "^2.8.1",
     "rheactor-yadda-feature-runner": "^1.0.0",
     "superagent": "^2.2.0",
-    "template-mailer-aws-lambda-client": "^1.0.0",
+    "template-mailer-aws-lambda-client": "^2.0.0",
     "transactional-emails": "^1.14.0",
     "validate-commit-msg": "^2.7.0",
     "yadda": "^0.21.0"
