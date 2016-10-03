@@ -49,7 +49,7 @@
     "template-mailer-aws-lambda-client": "^2.0.0",
     "transactional-emails": "^1.14.0",
     "validate-commit-msg": "^2.7.0",
-    "yadda": "^0.21.0"
+    "yadda": "^0.22.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
