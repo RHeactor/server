@@ -60,7 +60,7 @@
     "moment": "^2.15.1",
     "semantic-release": "^6.3.2",
     "standard": "^8.1.0",
-    "superagent": "^2.3.0",
+    "superagent": "^3.0.0",
     "supertest": "^2.0.0",
     "toposort": "^1.0.0",
     "validate-commit-msg": "^2.8.0",
