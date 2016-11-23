@@ -59,7 +59,7 @@
     "mocha-lcov-reporter": "^1.2.0",
     "moment": "^2.15.1",
     "semantic-release": "^6.3.2",
-    "standard": "^8.1.0",
+    "standard": "^8.6.0",
     "superagent": "^3.0.0",
     "supertest": "^2.0.0",
     "toposort": "^1.0.0",
