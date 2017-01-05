@@ -45,7 +45,7 @@
     "request-promise": "^4.1.1",
     "rheactor-build-views": "^3.0.0",
     "rheactor-event-store": "^3.1.0",
-    "rheactor-value-objects": "^3.0.0",
+    "rheactor-value-objects": "^4.0.0",
     "rheactor-web-app": "^2.8.1",
     "rheactor-yadda-feature-runner": "^1.0.0",
     "template-mailer-aws-lambda-client": "^2.0.0",
