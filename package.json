@@ -47,7 +47,7 @@
     "request-promise": "^4.1.1",
     "rheactor-build-views": "^3.x",
     "rheactor-event-store": "^9.x",
-    "rheactor-models": ">=2.4.0 <3.0.0",
+    "rheactor-models": ">=3.0.0",
     "rheactor-value-objects": "^8.x",
     "tcomb": "^3.2.16",
     "template-mailer-aws-lambda-client": "^2.x",
