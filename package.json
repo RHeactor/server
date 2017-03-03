@@ -36,7 +36,7 @@
     "transactional-emails": "^1.17.0"
   },
   "peerDependencies": {
-    "@resourcefulhumans/rheactor-bdd-contexts": "1.x >=1.0.2",
+    "@resourcefulhumans/rheactor-bdd-contexts": "2.0.0",
     "@resourcefulhumans/rheactor-errors": "1.x",
     "bluebird": "^3.4.6",
     "colors": "^1.1.2",
