@@ -62,7 +62,7 @@
     "husky": "^0.13.3",
     "juice": "^4.0.2",
     "lolex": "^1.6.0",
-    "mocha": "^3.0.2",
+    "mocha": "^4.0.0",
     "nyc": "^10.2.0",
     "rheactor-yadda-feature-runner": "^2.0.2",
     "semantic-release": "^6.3.2",
