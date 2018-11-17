@@ -68,7 +68,7 @@
     "semantic-release": "^6.3.2",
     "showdown": "^1.6.4",
     "standard": "^10.0.2",
-    "superagent": "^3.5.2",
+    "superagent": "^4.0.0",
     "supertest": "^3.0.0",
     "validate-commit-email": "^1.0.1",
     "validate-commit-msg": "^2.12.1",
