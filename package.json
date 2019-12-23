@@ -63,7 +63,7 @@
     "juice": "^4.0.2",
     "lolex": "^2.0.0",
     "mocha": "^3.0.2",
-    "nyc": "^11.0.0",
+    "nyc": "^12.0.1",
     "rheactor-yadda-feature-runner": "^2.0.2",
     "semantic-release": "^6.3.2",
     "showdown": "^1.6.4",
