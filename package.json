@@ -67,7 +67,7 @@
     "rheactor-yadda-feature-runner": "^2.0.2",
     "semantic-release": "^6.3.2",
     "showdown": "^1.6.4",
-    "standard": "^10.0.2",
+    "standard": "^12.0.0",
     "superagent": "^3.5.2",
     "supertest": "^3.0.0",
     "validate-commit-email": "^1.0.1",
