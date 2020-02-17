@@ -65,7 +65,7 @@
     "mocha": "^3.0.2",
     "nyc": "^11.0.0",
     "rheactor-yadda-feature-runner": "^2.0.2",
-    "semantic-release": "^6.3.2",
+    "semantic-release": "^17.0.4",
     "showdown": "^1.6.4",
     "standard": "^10.0.2",
     "superagent": "^3.5.2",
